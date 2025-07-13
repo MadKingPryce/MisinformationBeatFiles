@@ -1,0 +1,10 @@
+Year,Word 1,Count 1,Word 2,Count 2,Word 3,Count 3,Word 4,Count 4,Word 5,Count 5,Word 6,Count 6
+2016,trump,41,putin,29,clinton,14,netanyahu,1.0,,,,
+2017,trump,261,putin,104,clinton,51,,,,,,
+2018,trump,383,putin,94,clinton,63,biden,4.0,,,,
+2019,trump,642,putin,85,clinton,78,biden,72.0,xi,6.0,netanyahu,1.0
+2020,trump,1585,biden,537,putin,149,clinton,83.0,xi,10.0,,
+2021,trump,722,biden,322,putin,77,clinton,12.0,xi,2.0,netanyahu,2.0
+2022,trump,367,putin,309,biden,264,clinton,30.0,xi,12.0,netanyahu,1.0
+2023,biden,218,trump,189,putin,77,clinton,38.0,xi,16.0,netanyahu,2.0
+2024,trump,638,biden,257,putin,92,clinton,36.0,netanyahu,10.0,xi,6.0
